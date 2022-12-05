@@ -21,4 +21,4 @@ npm install .
 
 This was tested with 
 npm 6.14.15
-node 4.18.3
+node 14.18.3
